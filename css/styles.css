@@ -1,0 +1,146 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  margin: 30px 0;
+}
+
+a {
+ font-family: Montserrat;
+ margin: 10px 20px;
+ text-decoration: none;
+
+
+}
+
+a:hover {
+ color: #EAF6F6;
+
+}
+.top-container {
+  background-color: #D1E8E4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-picture {
+
+  width: 18%;
+}
+
+.skills-image {
+width: 25%;
+float: left;
+margin-right: 30px;
+
+
+
+}
+.personal-skills {
+  float:right;
+  width: 25%;
+  margin-right: 30px;
+  border-radius: 50%;
+
+}
+.skill-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  background: #11cdd4;
+  background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+  background: -moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+  background: -ms-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+  background: -o-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+  background: -webkit-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Montserrat;
+  color: white;
+  font-size: 15px;
+  padding: 10px 20px 10px 10px;
+  text-decoration: none;
+
+}
+
+.btn:hover  {
+  background: #30e3cb;
+  background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #30e3cb), color-stop(1, #2bc4ad) );
+  background: -moz-linear-gradient( center top, #30e3cb 5%, #2bc4ad 100% );
+  background: -ms-linear-gradient( center top, #30e3cb 5%, #2bc4ad 100% );
+  background: -o-linear-gradient( center top, #30e3cb 5%, #2bc4ad 100% );
+  background: -webkit-linear-gradient( center top, #30e3cb 5%, #2bc4ad 100% );
+  text-decoration: none;
+}
+
+.bottom-container {
+ background-color: #66BFBF;
+ padding: 50px 0 20px;
+
+}
+
+.contact-me {
+  line-height: 2;
+  margin-bottom: 50px;
+
+
+}
+
+.name {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+hr {
+ border-top: 6px dotted #EAF6F6;
+ border-bottom: none;
+
+ width: 5%;
+ margin: 100px auto;
+
+}
